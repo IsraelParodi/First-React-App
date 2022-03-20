@@ -1,3 +1,7 @@
+# Informative React App
+
+This little project is the first one I did on react, it's just a 3 components website using html, css and js.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
